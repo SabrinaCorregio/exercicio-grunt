@@ -1,0 +1,7 @@
+node_modules/
+src/styles/*.min.css
+src/scripts/*.min.js
+index.min.html
+.vscode/
+package-lock.json
+
